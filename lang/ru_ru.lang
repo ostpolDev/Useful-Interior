@@ -1,0 +1,354 @@
+tile.table_oak.name=Стол из дуба
+tile.table_spruce.name=Стол из ели
+tile.table_birch.name=Стол из березы
+tile.table_jungle.name=Стол из тропического дерева
+tile.table_acacia.name=Стол из акации
+tile.table_dark_oak.name=Стол из темного дуба
+
+tile.coffee_table_oak.name=Кофейный столик из дуба
+tile.coffee_table_spruce.name=Кофейный столик из ели
+tile.coffee_table_birch.name=Кофейный столик из березы
+tile.coffee_table_jungle.name=Кофейный столик из тропического дерева
+tile.coffee_table_acacia.name=Кофейный столик из акации
+tile.coffee_table_dark_oak.name=Кофейный столик из темного дуба
+
+tile.cabinet_oak.name=Шкаф из дуба
+tile.cabinet_spruce.name=Шкаф из ели
+tile.cabinet_birch.name=Шкаф из березы
+tile.cabinet_jungle.name=Шкаф из тропического дерева
+tile.cabinet_acacia.name=Шкаф из акации
+tile.cabinet_dark_oak.name=Шкаф из темного дуба
+
+tile.item_display_default.name=Предметный дисплей
+tile.item_display_glass.name=Стеклянный предметный дисплей
+tile.counter.name=Кухонный гарнитур
+tile.counter_sink.name=Кухонный гарнитур с раковиной
+tile.counter_drawer.name=Кухонный гарнитур с ящиком
+tile.counter_stovetop.name=Кухонный гарнитур с варочной панелью
+tile.counter_oven_normal.name=Кухонный гарнитур с печью
+tile.counter_oven_stovetop.name=Кухонный гарнитур с печью и варочной панелью
+tile.counter_fryer.name=Кухонный гарнитур с фритюрницей
+tile.counter_door.name=Дверь кухонного гарнитура
+
+tile.chair_oak.name=Стул из дуба
+tile.chair_spruce.name=Стул из ели
+tile.chair_birch.name=Стул из березы
+tile.chair_jungle.name=Стул из тропического дерева
+tile.chair_acacia.name=Стул из акации
+tile.chair_dark_oak.name=Стул из темного дуба
+
+tile.beach_chair_white.name=Белый шезлонг
+tile.beach_chair_orange.name=Оранжевый шезлонг
+tile.beach_chair_magenta.name=Фиолетовый шезлонг
+tile.beach_chair_light_blue.name=Светло-синий шезлонг
+tile.beach_chair_yellow.name=Желтый шезлонг
+tile.beach_chair_lime.name=Лаймовый шезлонг
+tile.beach_chair_pink.name=Розовый шезлонг
+tile.beach_chair_gray.name=Серый шезлонг
+tile.beach_chair_silver.name=Светло-серый шезлонг
+tile.beach_chair_cyan.name=Голубой шезлонг
+tile.beach_chair_purple.name=Пурпурный шезлонг
+tile.beach_chair_blue.name=Синий шезлонг
+tile.beach_chair_brown.name=Коричневый шезлонг
+tile.beach_chair_green.name=Зеленый шезлонг
+tile.beach_chair_red.name=Красный шезлонг
+tile.beach_chair_black.name=Черный шезлонг
+
+tile.bar_stool_white.name=Белый барный стул
+tile.bar_stool_orange.name=Оранжевый барный стул
+tile.bar_stool_magenta.name=Фиолетовый барный стул
+tile.bar_stool_light_blue.name=Светло-синий барный стул
+tile.bar_stool_yellow.name=Желтый барный стул
+tile.bar_stool_lime.name=Лаймовый барный стул
+tile.bar_stool_pink.name=Розовый барный стул
+tile.bar_stool_gray.name=Серый барный стул
+tile.bar_stool_silver.name=Светло-серый барный стул
+tile.bar_stool_cyan.name=Голубой барный стул
+tile.bar_stool_purple.name=Пурпурный барный стул
+tile.bar_stool_blue.name=Синий барный стул
+tile.bar_stool_brown.name=Коричневый барный стул
+tile.bar_stool_green.name=Зеленый барный стул
+tile.bar_stool_red.name=Красный барный стул
+tile.bar_stool_black.name=Черный барный стул
+
+tile.counter_end.name=Конец кухонного гарнитура
+
+tile.display_cabinet_oak.name=Шкаф-витрина из дуба
+tile.display_cabinet_spruce.name=Шкаф-витрина из ели
+tile.display_cabinet_birch.name=Шкаф-витрина из березы
+tile.display_cabinet_jungle.name=Шкаф-витрина из тропического дерева
+tile.display_cabinet_acacia.name=Шкаф-витрина из акации
+tile.display_cabinet_dark_oak.name=Шкаф-витрина из темного дуба
+
+tile.kitchen_cabinet_left.name=Кухонный шкаф (левый)
+tile.kitchen_cabinet_right.name=Кухонный шкаф (правый)
+
+tile.bedside_table_oak.name=Прикроватная тумба из дуба
+tile.bedside_table_spruce.name=Прикроватная тумба из ели
+tile.bedside_table_birch.name=Прикроватная тумба из березы
+tile.bedside_table_jungle.name=Прикроватная тумба из тропического дерева
+tile.bedside_table_acacia.name=Прикроватная тумба из акации
+tile.bedside_table_dark_oak.name=Прикроватная тумба из темного дуба
+
+#desks
+
+tile.desk_oak.name=Стол из дуба
+tile.desk_spruce.name=Стол из ели
+tile.desk_birch.name=Стол из березы
+tile.desk_jungle.name=Стол из тропического дерева
+tile.desk_acacia.name=Стол из акации
+tile.desk_dark_oak.name=Стол из темного дуба
+
+tile.pillar.name=Столб
+
+tile.campfire.name=Костёр
+
+tile.safe.name=Сейф
+
+#lamps
+
+tile.lamp_white.name=Белая лампа
+tile.lamp_orange.name=Оранжевая лампа
+tile.lamp_magenta.name=Фиолетовая лампа
+tile.lamp_light_blue.name=Светло-синяя лампа
+tile.lamp_yellow.name=Желтая лампа
+tile.lamp_lime.name=Лаймовая лампа
+tile.lamp_pink.name=Розовая лампа
+tile.lamp_gray.name=Серая лампа
+tile.lamp_silver.name=Светло-серая лампа
+tile.lamp_cyan.name=Голубая лампа
+tile.lamp_purple.name=Пурпурная лампа
+tile.lamp_blue.name=Синяя лампа
+tile.lamp_brown.name=Коричневая лампа
+tile.lamp_green.name=Зеленая лампа
+tile.lamp_red.name=Красная лампа
+tile.lamp_black.name=Черная лампа
+
+tile.stained_item_display_white.name=Белый предметный дисплей
+tile.stained_item_display_orange.name=Оранжевый предметный дисплей
+tile.stained_item_display_magenta.name=Фиолетовый предметный дисплей
+tile.stained_item_display_light_blue.name=Светло-синий предметный дисплей
+tile.stained_item_display_yellow.name=Желтый предметный дисплей
+tile.stained_item_display_lime.name=Лаймовый предметный дисплей
+tile.stained_item_display_pink.name=Розовый предметный дисплей
+tile.stained_item_display_gray.name=Серый предметный дисплей
+tile.stained_item_display_silver.name=Светло-серый предметный дисплей
+tile.stained_item_display_cyan.name=Голубой предметный дисплей
+tile.stained_item_display_purple.name=Пурпурный предметный дисплей
+tile.stained_item_display_blue.name=Синий предметный дисплей
+tile.stained_item_display_brown.name=Коричневый предметный дисплей
+tile.stained_item_display_green.name=Зеленый предметный дисплей
+tile.stained_item_display_red.name=Красный предметный дисплей
+tile.stained_item_display_black.name=Черный предметный дисплей
+
+tile.lantern.name=Фонарь
+
+tile.microwave.name=Микроволновая печь
+
+tile.pan.name=Кастрюля
+
+tile.fridge.name=Холодильник
+
+tile.trash_can.name=Мусорное ведро
+
+tile.sink.name=Раковина
+tile.towel_holder.name=Полотенцедержатель
+
+tile.bench_oak.name=Скамья из дуба
+tile.bench_spruce.name=Скамья из ели
+tile.bench_birch.name=Скамья из березы
+tile.bench_jungle.name=Скамья из тропического дерева
+tile.bench_acacia.name=Скамья из акации
+tile.bench_dark_oak.name=Скамья из темного дуба
+
+tile.coffee_machine_empty.name=Кофейная машина (пусто)
+tile.coffee_machine_water.name=Кофейная машина (вода)
+tile.coffee_machine_coffee.name=Кофейная машина (кофе)
+tile.grinder.name=Дробитель
+
+tile.charger.name=Зарядное устройство батареи
+
+tile.glass_roof.name=Стеклянная крыша
+
+# Glass Roofs
+
+tile.stained_glass_roof_white.name=Белая стеклянная крыша
+tile.stained_glass_roof_orange.name=Оранжевая стеклянная крыша
+tile.stained_glass_roof_magenta.name=Фиолетовая стеклянная крыша
+tile.stained_glass_roof_light_blue.name=Светло-синяя стеклянная крыша
+tile.stained_glass_roof_yellow.name=Желтая стеклянная крыша
+tile.stained_glass_roof_lime.name=Лаймовая стеклянная крыша
+tile.stained_glass_roof_pink.name=Розовая стеклянная крыша
+tile.stained_glass_roof_gray.name=Серая стеклянная крыша
+tile.stained_glass_roof_silver.name=Светло-серая стеклянная крыша
+tile.stained_glass_roof_cyan.name=Голубая стеклянная крыша
+tile.stained_glass_roof_purple.name=Пурпурная стеклянная крыша
+tile.stained_glass_roof_blue.name=Синяя стеклянная крыша
+tile.stained_glass_roof_brown.name=Коричневая стеклянная крыша
+tile.stained_glass_roof_green.name=Зеленая стеклянная крыша
+tile.stained_glass_roof_red.name=Красная стеклянная крыша
+tile.stained_glass_roof_black.name=Черная стеклянная крыша
+
+# Misc
+
+tile.sandbox.name=Песочница
+tile.sittable_log_oak.name=Бревенчатая скамья из дуба
+tile.sittable_log_spruce.name=Бревенчатая скамья из ели
+tile.sittable_log_birch.name=Бревенчатая скамья из березы
+tile.sittable_log_jungle.name=Бревенчатая скамья из тропического дерева
+tile.sittable_log_acacia.name=Бревенчатая скамья из акации
+tile.sittable_log_dark_oak.name=Бревенчатая скамья из темного дуба
+tile.litterbox.name=Мусорный ящик
+
+
+# Containers
+
+container.cabinet.name=Шкаф
+container.drawer.name=Ящик
+container.microwave.name=Микроволновая печь
+container.microwave_upgraded.name=Микроволновая печь (усиленная)
+container.oven.name=Печь
+container.fridge.name=Холодильник
+container.freezer.name=Морозилка
+container.kitchen_cabinet.name=Кухонный шкаф
+container.desk.name=Стол
+container.safe.name=Сейф
+container.bedside_table.name=Прикроватная тумба
+container.charger.name=Зарядное устройство батареи
+container.stovetop.name=Варочная панель
+container.fryer.name=Фритюрница
+
+# Tooltips & Messages
+
+of.msg.safe=Этот сейф принадлежит %s
+of.msg.trashcan=ALT+ПКМ, чтобы удалить удерживаемый предмет
+
+of.tooltip.shift=§eНажмите Shift
+
+of.tooltip.infoSafe=Может быть открыт и уничтожен только игроком, который разместил сейф!
+of.tooltip.upgrade.storage=Повышение безопасности хранения
+of.tooltip.pan=Разместите на %s или освещенной печи для приготовления пищи
+of.tooltip.sink=Бесконечный источник воды
+of.tooltip.upgrade.0=Усильте микроволновую печь, чтобы расплавить всё
+of.tooltip.towel=Очищает все активные эффекты зелья
+
+of.tooltip.coffee_machine.0=Активируйте бутылкой с водой для того чтобы заполнить машину с водой
+of.tooltip.coffee_machine.1=Активируйте с помощью порошка кофе, чтобы превратить воду в кофе
+of.tooltip.coffee_machine.2=Активируйте пустой бутылкой, чтобы получить кофе
+of.tooltip.mug_block=WIP
+
+of.tooltip.nopower=Использование энергии был отключено
+of.tooltip.fryer=Присесть+ПКМ, чтобы открыть слот батареи
+
+of.subtitle.microwave=Микроволновая печь <BING>
+
+# Items
+
+item.nail.name=Гвоздь
+item.microwave_upgrade.name=Обновление микроволновой печи
+
+item.bucket_magma.name=Ведро магмы
+item.bucket_obsidian.name=Ведро обсидиана
+
+item.coffee_bean.name=Кофейные зерна
+item.coffee_powder.name=Кофейный порошок
+item.coffee_bottle.name=Кофе
+item.flour.name=Мука
+
+item.paneed_beef.name=Филе говядины
+item.schnitzel.name=Шницель
+item.breadcrumbs.name=Панировочные сухари
+
+item.schnitzel_semmel.name=Шницель в ролле
+item.bread_roll.name=Хлебный ролл
+item.dough.name=Тесто
+
+tile.mug_empty.name=Пустой блок кружки
+tile.mug_coffee.name=Блок кофейной кружки
+
+item.item_mug_empty.name=Пустая кружка
+item.item_mug_coffee.name=Кружка кофе
+
+item.battery.name=Батарея низкой ёмкости
+item.battery_medium.name=Батарея средней ёмкости
+item.battery_high.name=Батарея высокой ёмкости
+item.battery_creative.name=Творческая батарея
+
+itemGroup.of=Useful Interior
+
+# ADVANCEMENTS
+
+advancement.of:root=Useful Interior
+advancement.of:root.desc=Создайте гвоздь
+
+advancement.of:kitchen=Кухня
+advancement.of:kitchen.desc=Создайте кухонный гарнитур
+
+advancement.of:stove_top=Варочная панель
+advancement.of:stove_top.desc=Создайте кухонный гарнитур с варочной панелью
+
+advancement.of:oven=Печь
+advancement.of:oven.desc=Создайте печь
+
+advancement.of:oven_stove=Многозадачность
+advancement.of:oven_stove.desc=Совместите варочную панель и печь
+
+advancement.of:fryer=Сильно прожаренный
+advancement.of:fryer.desc=Создайте фритюрницу
+
+advancement.of:counter_sink=Отмывание
+advancement.of:counter_sink.desc=Создайте кухонный гарнитур с раковиной
+
+advancement.of:fridge=Поддержание прохладности
+advancement.of:fridge.desc=Создайте холодильник
+
+advancement.of:microwave=Разогрев
+advancement.of:microwave.desc=Создайте микроволновую печь
+
+advancement.of:grinder=Размалывание
+advancement.of:grinder.desc=Создайте дробитель
+
+advancement.of:home_decoration=Украшение дома
+advancement.of:home_decoration.desc=Создайте стол
+
+advancement.of:item_display=Посмотри на это!
+advancement.of:item_display.desc=Создайте предметный дисплей
+
+advancement.of:stained_item_display=Посмотри на эти цвета!
+advancement.of:stained_item_display.desc=Создайте витражный предмет
+
+advancement.of:lamp=Свет.
+advancement.of:lamp.desc=Создайте лампу
+
+advancement.of:coffee_table=Короткий столик
+advancement.of:coffee_table.desc=Создайте кофейный столик
+
+advancement.of:bar_stool=Красочный бар
+advancement.of:bar_stool.desc=Создайте барный стул
+
+advancement.of:coffee_bean=Кофейные зерна!
+advancement.of:coffee_bean.desc=Получите кофейное зерно
+
+advancement.of:coffee_powder=Молотый кофе
+advancement.of:coffee_powder.desc=Измельчить кофейное зерно в кофейный порошок
+
+advancement.of:coffee=Кофе!
+advancement.of:coffee.desc=Сделайте кофе
+
+advancement.of:schnitzel=Шницель
+advancement.of:schnitzel.desc=Приготовьте шницель
+
+advancement.of:safe=Оставаться в безопасности
+advancement.of:safe.desc=Создайте сейф
+
+advancement.of:battery=Энергия!
+advancement.of:battery.desc=Создайте батарею низкой ёмкости
+
+advancement.of:battery_med=Больше энергии!
+advancement.of:battery_med.desc=Создайте батарею средней ёмкости
+
+advancement.of:battery_high=Вся энергия!
+advancement.of:battery_high.desc=Создайте батарею высокой ёмкости
+
+advancement.of:charger=Зарядка
+advancement.of:charger.desc=Создайте зарядноу устройство батареи

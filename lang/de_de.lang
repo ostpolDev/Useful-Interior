@@ -1,0 +1,211 @@
+tile.table_oak.name=Eichen Tisch
+tile.table_spruce.name=Fichten Tisch
+tile.table_birch.name=Birken Tisch
+tile.table_jungle.name=Jungle Tisch
+tile.table_acacia.name=Akazien Tisch
+tile.table_dark_oak.name=Dunkler Eichen Tisch
+
+tile.coffee_table_oak.name=Eichen Kaffetisch
+tile.coffee_table_spruce.name=Fichten Kaffetisch
+tile.coffee_table_birch.name=Birken Kaffetisch
+tile.coffee_table_jungle.name=Jungle Kaffetisch
+tile.coffee_table_acacia.name=Akazien Kaffetisch
+tile.coffee_table_dark_oak.name=Dunkler Eichen Kaffetisch
+
+tile.cabinet_oak.name=Eichen Kabinett
+tile.cabinet_spruce.name=Fichten Kabinett
+tile.cabinet_birch.name=Birken Kabinett
+tile.cabinet_jungle.name=Jungle Kabinett
+tile.cabinet_acacia.name=Akazien Kabinett
+tile.cabinet_dark_oak.name=Dunkles Eichen Kabinett
+
+tile.item_display_default.name=Gegenstandsanzeige
+tile.item_display_glass.name=Glaß Gegenstandsanzeige
+tile.counter.name=Theke
+tile.counter_sink.name=Theke mit Waschbecken
+tile.counter_drawer.name=Theke mit Schublade
+tile.counter_stovetop.name=Theke mit Kochfeld 
+tile.counter_oven_normal.name=Theke mit Ofen
+tile.counter_oven_stovetop.name=Theke mit Ofen und Kochfeld
+tile.counter_fryer.name=Theke mit Fritteuse
+tile.counter_door.name=Thekentür
+
+tile.chair_oak.name=Eichen Sessel
+tile.chair_spruce.name=Fichten Sessel
+tile.chair_birch.name=Birken Sessel
+tile.chair_jungle.name=Akazien Sessel
+tile.chair_acacia.name=Akazien Sessel
+tile.chair_dark_oak.name=Dunkler Eichen Sessel
+
+tile.beach_chair_white.name=Weißer Liegestuhl
+tile.beach_chair_orange.name=Orangener Liegestuhl
+tile.beach_chair_magenta.name=Magenta Liegestuhl
+tile.beach_chair_light_blue.name=Hellblauer Liegestuhl
+tile.beach_chair_yellow.name=Gelber Liegestuhl
+tile.beach_chair_lime.name=Hellgrüner Liegestuhl
+tile.beach_chair_pink.name=Pinker Liegestuhl
+tile.beach_chair_gray.name=Grauer Liegestuhl
+tile.beach_chair_silver.name=Hellgrauer Liegestuhl
+tile.beach_chair_cyan.name=Cyan Liegestuhl
+tile.beach_chair_purple.name=Lila Liegestuhl
+tile.beach_chair_blue.name=Blauer Liegestuhl
+tile.beach_chair_brown.name=Brauner Liegestuhl
+tile.beach_chair_green.name=Grüner Liegestuhl
+tile.beach_chair_red.name=Roter Liegestuhl
+tile.beach_chair_black.name=Schwarzer Liegestuhl
+
+tile.bar_stool_white.name=Weißer Barhocker
+tile.bar_stool_orange.name=Orangener Barhocker
+tile.bar_stool_magenta.name=Magenta Barhocker
+tile.bar_stool_light_blue.name=Hellblauer Barhocker
+tile.bar_stool_yellow.name=Gelber Barhocker
+tile.bar_stool_lime.name=Hellgrüner Barhocker
+tile.bar_stool_pink.name=Pinker Barhocker
+tile.bar_stool_gray.name=Grauer Barhocker
+tile.bar_stool_silver.name=Hellgrauer Barhocker
+tile.bar_stool_cyan.name=Cyan Barhocker
+tile.bar_stool_purple.name=Lila Barhocker
+tile.bar_stool_blue.name=Blauer Barhocker
+tile.bar_stool_brown.name=Brauner Barhocker
+tile.bar_stool_green.name=Grüner Barhocker
+tile.bar_stool_red.name=Roter Barhocker
+tile.bar_stool_black.name=Schwarzer Barhocker
+
+tile.counter_end.name=Theken Ende
+
+tile.display_cabinet_oak.name=Eichen Vitrine
+tile.display_cabinet_spruce.name=Fichten Vitrine
+tile.display_cabinet_birch.name=Birken Vitrine
+tile.display_cabinet_jungle.name=Jungle Vitrine
+tile.display_cabinet_acacia.name=Akazien Vitrine
+tile.display_cabinet_dark_oak.name=Dunkle Eichen Vitrine
+
+tile.kitchen_cabinet_left.name=Küchenschrank (Links)
+tile.kitchen_cabinet_right.name=Küchenschrank (Rechts)
+
+tile.bedside_table_oak.name=Eichen Nachttisch
+tile.bedside_table_spruce.name=Fichten Nachttisch
+tile.bedside_table_birch.name=Birken Nachttisch
+tile.bedside_table_jungle.name=Jungle Nachttisch
+tile.bedside_table_acacia.name=Akazien Nachttisch
+tile.bedside_table_dark_oak.name=Dunkler Eichen Nachttisch
+
+#desks
+
+tile.desk_oak.name=Eichen Schreibtisch
+tile.desk_spruce.name=Fichten Schreibtisch
+tile.desk_birch.name=Birken Schreibtisch
+tile.desk_jungle.name=Jungle Schreibtisch
+tile.desk_acacia.name=Akazien Schreibtisch
+tile.desk_dark_oak.name=Dunkler Eichen Schreibtisch
+
+tile.pillar.name=Säule
+
+tile.campfire.name=Lagerfeuer
+
+tile.safe.name=Tresor
+
+#lamps
+
+tile.lamp_white.name=Weiße Lampe
+tile.lamp_orange.name=Orangene Lampe
+tile.lamp_magenta.name=Magenta Lampe
+tile.lamp_light_blue.name=Hellblaue Lampe
+tile.lamp_yellow.name=Gelbe Lampe
+tile.lamp_lime.name=Hellgrüne Lampe
+tile.lamp_pink.name=Pinke Lampe
+tile.lamp_gray.name=Graue Lampe
+tile.lamp_silver.name=Hellgraue Lampe
+tile.lamp_cyan.name=Cyan Lampe
+tile.lamp_purple.name=Lila Lampe
+tile.lamp_blue.name=Blaue Lampe
+tile.lamp_brown.name=Braune Lampe
+tile.lamp_green.name=Grüne Lampe
+tile.lamp_red.name=Rote Lampe
+tile.lamp_black.name=Schwarze Lampe
+
+tile.stained_item_display_white.name=Weiße Gegenstandsanzeige
+tile.stained_item_display_orange.name=Orangene Gegenstandsanzeige
+tile.stained_item_display_magenta.name=Magenta Gegenstandsanzeige
+tile.stained_item_display_light_blue.name=Hellblaue Gegenstandsanzeige
+tile.stained_item_display_yellow.name=Gelbe Gegenstandsanzeige
+tile.stained_item_display_lime.name=Hellgrüne Gegenstandsanzeige
+tile.stained_item_display_pink.name=Pinke Gegenstandsanzeige
+tile.stained_item_display_gray.name=Graue Gegenstandsanzeige
+tile.stained_item_display_silver.name=Hellgraue Gegenstandsanzeige
+tile.stained_item_display_cyan.name=Cyan Gegenstandsanzeige
+tile.stained_item_display_purple.name=Lila Gegenstandsanzeige
+tile.stained_item_display_blue.name=Blaue Gegenstandsanzeige
+tile.stained_item_display_brown.name=Braune Gegenstandsanzeige
+tile.stained_item_display_green.name=Grüne Gegenstandsanzeige
+tile.stained_item_display_red.name=Rote Gegenstandsanzeige
+tile.stained_item_display_black.name=Schwarze Gegenstandsanzeige
+
+tile.lantern.name=Laterne
+
+tile.microwave.name=Mikrowelle
+
+tile.pan.name=Pfanne
+
+tile.fridge.name=Eiskasten
+
+tile.trash_can.name=Mistkübel
+
+tile.sink.name=Waschbecken
+tile.towel_holder.name=Handtuchhalter
+
+tile.bench_oak.name=Eichen Heurigenbank
+tile.bench_spruce.name=Fichten Heurigenbank
+tile.bench_birch.name=Birken Heurigenbank
+tile.bench_jungle.name=Jungle Heurigenbank
+tile.bench_acacia.name=Akazien Heurigenbank
+tile.bench_dark_oak.name=Dunkle Eichen Heurigenbank
+
+tile.coffee_machine_empty.name=Kaffeemaschine (Leer)
+tile.coffee_machine_water.name=Kaffeemaschine (Wasser)
+tile.coffee_machine_coffee.name=Kaffeemaschine (Kaffee)
+tile.grinder.name=Mühle
+
+container.cabinet.name=Kabinett
+container.drawer.name=Schublade
+container.microwave.name=Mikrowelle
+container.microwave_upgraded.name=Mikrowelle (Verstärkt)
+container.oven.name=Ofen
+container.fridge.name=Eiskasten
+container.freezer.name=Gefrierschrank
+container.kitchen_cabinet.name=Küchenschrank
+container.desk.name=Schreibtisch
+container.safe.name=Tresor
+container.bedside_table.name=Nachttisch
+
+of.msg.safe=Dieser Tresor gehört %s
+of.msg.trashcan=ALT + Rechts-Click um das gehaltene Item zu löschen
+
+of.tooltip.shift=§eDrücke SHIFT
+
+of.tooltip.infoSafe=Kann nur vom plazierer geöffnet und zerstört werden.
+of.tooltip.pan=Muss auf %s plaziert werden zum kochen
+of.tooltip.sink=Unendlich Wasser
+of.tooltip.upgrade.0=Verstärkt eine Mikrowelle um alles zu kochen.
+of.tooltip.towel=Löscht alle aktiven Potion Effekte
+
+of.tooltip.coffee_machine.0=Aktiviere mit einer Wasserflasche um die Maschiene mit Wasser zu füllen.
+of.tooltip.coffee_machine.1=Aktiviere mit Kaffeepulver um das Wasser zu Kaffee zu ändern.
+of.tooltip.coffee_machine.2=Aktiviere mit einer Leeren Flasche um Kaffee zu bekommen.
+
+item.nail.name=Nagel
+item.microwave_upgrade.name=Mikrowellen Upgrade
+
+item.bucket_magma.name=Magma Kübel
+item.bucket_obsidian.name=Obsidian Kübel
+
+item.coffee_bean.name=Kaffeebohnen
+item.coffee_powder.name=Kaffeepulver
+item.coffee_bottle.name=Kaffee
+item.flour.name=Mehl
+
+item.paneed_beef.name=Paniertes Rindfleisch
+item.schnitzel.name=Schnitzel
+item.breadcrumbs.name=Semmelbrösel
+
+itemGroup.of=Useful Interior
