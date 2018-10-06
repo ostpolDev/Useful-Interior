@@ -102,7 +102,7 @@ tile.bedside_table_jungle.name=叢林木床邊桌
 tile.bedside_table_acacia.name=相思木床邊桌
 tile.bedside_table_dark_oak.name=黑橡木床邊桌
 
-#desks
+# Desks
 tile.desk_oak.name=橡木書桌
 tile.desk_spruce.name=杉木書桌
 tile.desk_birch.name=樺木書桌
@@ -110,7 +110,7 @@ tile.desk_jungle.name=叢林木書桌
 tile.desk_acacia.name=相思木書桌
 tile.desk_dark_oak.name=黑橡木書桌
 
-#lamps
+# Lamps
 tile.lamp_white.name=白色燈
 tile.lamp_orange.name=橙色燈
 tile.lamp_magenta.name=洋紅色燈
@@ -210,7 +210,7 @@ tile.litterbox.name=兔子廁所
 tile.lightswitch.name=電燈開關
 tile.chimney.name=煙囪
 tile.pole_ladder.name=桿梯
-tile.toilet.name=廁所
+tile.toilet.name=馬桶
 tile.toilet_paper_holder.name=衛生紙架
 tile.bathroom_window.name=浴室窗戶
 item.hand.name=世界互動[?]
@@ -221,35 +221,35 @@ container.drawer.name=抽屜
 container.microwave.name=微波爐
 container.microwave_upgraded.name=微波爐（增強型）
 container.oven.name=烤爐
-container.fridge.name=Fridge
-container.freezer.name=Freezer
-container.kitchen_cabinet.name=Kitchen Cabinet
-container.desk.name=Desk
-container.safe.name=Safe
-container.bedside_table.name=Bedside Table
-container.charger.name=Battery Charger
-container.stovetop.name=Stove Top
-container.fryer.name=Fryer
+container.fridge.name=冰箱
+container.freezer.name=冷凍冰箱
+container.kitchen_cabinet.name=櫥櫃
+container.desk.name=書桌
+container.safe.name=保險箱
+container.bedside_table.name=床邊桌
+container.charger.name=電池充電器
+container.stovetop.name=爐頭
+container.fryer.name=炸鍋
 container.outdoor_storage.name=Outdoor Storage
 
 # Tooltips & Messages
-of.msg.safe=This safe is owned by %s
-of.msg.trashcan=ALT + Right-Click to Delete the Held item
-of.tooltip.shift=§ePress Shift
-of.tooltip.infoSafe=Can only be opened and destroyed by the Player that placed the Safe!
-of.tooltip.upgrade.storage=Increase Safe Storage
+of.msg.safe=這個保險箱是%s擁有的
+of.msg.trashcan=Alt＋右鍵點擊以刪除手持的物品
+of.tooltip.shift=§e按Shift
+of.tooltip.infoSafe=只能夠由擁有這個保險箱的玩家打開和破壞！
+of.tooltip.upgrade.storage=增加保險箱存儲空間
 of.tooltip.pan=Place on %s or Lit Furnace to Cook Food
-of.tooltip.sink=Infinite Water Source
-of.tooltip.upgrade.0=Reinforce a Microwave to Smelt Everything
-of.tooltip.towel=Clears all Active Potion Effects
-of.tooltip.coffee_machine.0=Activate with an Water Bottle to fill the machine with Water
-of.tooltip.coffee_machine.1=Activate with Coffee Powder to turn the water into coffee
-of.tooltip.coffee_machine.2=Activate with an Empty Bottle to get Coffee
-of.tooltip.mug_block=WIP
+of.tooltip.sink=無限水源
+of.tooltip.upgrade.0=加強微波爐以冶煉任何物品
+of.tooltip.towel=清除所有藥水效果
+of.tooltip.coffee_machine.0=使用水瓶為機器注水
+of.tooltip.coffee_machine.1=使用咖啡粉將機器內的水變成咖啡
+of.tooltip.coffee_machine.2=使用空的玻璃瓶以獲得咖啡
+of.tooltip.mug_block=製作中…
 of.tooltip.nopower=Energy Usage has been disabled
-of.tooltip.fryer=Sneak + Right Click to open Battery Slot
-of.subtitle.microwave=Microwave <BING>
-of.subtitle.flush=Toilet Flushing
+of.tooltip.fryer=蹲下並右鍵點擊以打開電池欄
+of.subtitle.microwave=微波爐叮一聲
+of.subtitle.flush=馬桶沖洗中
 
 # Items
 item.nail.name=Nail
