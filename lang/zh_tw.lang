@@ -220,29 +220,28 @@ tile.outdoor_storage_acacia.name=Acacia Outdoor Storage
 tile.outdoor_storage_dark_oak.name=Dark Oak Outdoor Storage
 
 # Misc
-tile.sandbox.name=Sandbox
-tile.sittable_log_oak.name=Oak Log Bench
-tile.sittable_log_spruce.name=Spruce Log Bench
-tile.sittable_log_birch.name=Birch Log Bench
-tile.sittable_log_jungle.name=Jungle Log Bench
-tile.sittable_log_acacia.name=Acacia Log Bench
-tile.sittable_log_dark_oak.name=Dark Oak Log Bench
-tile.litterbox.name=Litter Box
+tile.sandbox.name=沙箱
+tile.sittable_log_oak.name=橡木原木長椅
+tile.sittable_log_spruce.name=杉木原木長椅
+tile.sittable_log_birch.name=樺木原木長椅
+tile.sittable_log_jungle.name=叢林木原木長椅
+tile.sittable_log_acacia.name=相思木原木長椅
+tile.sittable_log_dark_oak.name=黑橡木原木長椅
+tile.litterbox.name=兔子廁所
 
-tile.lightswitch.name=Light Switch
-tile.chimney.name=Chimney
+tile.lightswitch.name=電燈開關
+tile.chimney.name=煙囪
 
-tile.pole_ladder.name=Pole Ladder
+tile.pole_ladder.name=桿梯
 
-tile.toilet.name=Toilet
-tile.toilet_paper_holder.name=Toilet Paper Holder
+tile.toilet.name=廁所
+tile.toilet_paper_holder.name=衛生紙架
 
-tile.bathroom_window.name=Bathroom Window
+tile.bathroom_window.name=浴室窗戶
 
-item.hand.name=World Interaction
+item.hand.name=世界互動[?]
 
 # Containers
-
 container.cabinet.name=Cabinet
 container.drawer.name=Drawer
 container.microwave.name=Microwave
@@ -260,144 +259,103 @@ container.fryer.name=Fryer
 container.outdoor_storage.name=Outdoor Storage
 
 # Tooltips & Messages
-
 of.msg.safe=This safe is owned by %s
 of.msg.trashcan=ALT + Right-Click to Delete the Held item
-
 of.tooltip.shift=§ePress Shift
-
 of.tooltip.infoSafe=Can only be opened and destroyed by the Player that placed the Safe!
 of.tooltip.upgrade.storage=Increase Safe Storage
 of.tooltip.pan=Place on %s or Lit Furnace to Cook Food
 of.tooltip.sink=Infinite Water Source
 of.tooltip.upgrade.0=Reinforce a Microwave to Smelt Everything
 of.tooltip.towel=Clears all Active Potion Effects
-
 of.tooltip.coffee_machine.0=Activate with an Water Bottle to fill the machine with Water
 of.tooltip.coffee_machine.1=Activate with Coffee Powder to turn the water into coffee
 of.tooltip.coffee_machine.2=Activate with an Empty Bottle to get Coffee
 of.tooltip.mug_block=WIP
-
 of.tooltip.nopower=Energy Usage has been disabled
 of.tooltip.fryer=Sneak + Right Click to open Battery Slot
-
 of.subtitle.microwave=Microwave <BING>
 of.subtitle.flush=Toilet Flushing
 
 # Items
-
 item.nail.name=Nail
 item.microwave_upgrade.name=Microwave Upgrade
-
 item.bucket_magma.name=Magma Bucket
 item.bucket_obsidian.name=Obsidian Bucket
-
 item.coffee_bean.name=Coffee Beans
 item.coffee_powder.name=Coffee Powder
 item.coffee_bottle.name=Coffee
 item.flour.name=Flour
-
 item.paneed_beef.name=Panéed Beef
 item.schnitzel.name=Schnitzel
 item.breadcrumbs.name=Breadcrumbs
-
 item.schnitzel_semmel.name=Schnitzel in a roll
 item.bread_roll.name=Bread Roll
 item.dough.name=Dough
-
 tile.mug_empty.name=Empty Mug Block
 tile.mug_coffee.name=Coffee Mug Block
-
 item.item_mug_empty.name=Empty Mug
 item.item_mug_coffee.name=Coffee Mug
-
 item.battery.name=Low Capacity Battery
 item.battery_medium.name=Medium Capacity Battery
 item.battery_high.name=High Capacity Battery
 item.battery_creative.name=Creative Battery
-
 item.toilet_paper.name=Toilet Paper
 item.toilet_paper_roll.name=Toilet Paper Roll
 item.cardboard.name=Cardboard
 
-itemGroup.of=Useful Interior
+itemGroup.of=有用的內飾
 
-# ADVANCEMENTS
-
-advancement.of:root=Useful Interior
-advancement.of:root.desc=Craft a Nail
-
+# Advancement
+advancement.of:root=有用的內飾
+advancement.of:root.desc=製作一顆釘子
 advancement.of:kitchen=Kitchen
 advancement.of:kitchen.desc=Craft a Counter
-
 advancement.of:stove_top=Stove Top
 advancement.of:stove_top.desc=Craft a Counter with Stove Top
-
 advancement.of:oven=Oven
 advancement.of:oven.desc=Craft an Oven
-
 advancement.of:oven_stove=Multitasking
 advancement.of:oven_stove.desc=Combine the Stove Top and the Oven
-
 advancement.of:fryer=Deep Fried
 advancement.of:fryer.desc=Craft a Fryer
-
 advancement.of:counter_sink=Washing Up
 advancement.of:counter_sink.desc=Craft a Counter with Sink
-
 advancement.of:fridge=Keeping Cool
 advancement.of:fridge.desc=Craft a Fridge
-
 advancement.of:microwave=Heating Up
 advancement.of:microwave.desc=Craft a Microwave
-
 advancement.of:grinder=Ground Up
 advancement.of:grinder.desc=Craft a Grinder
-
 advancement.of:home_decoration=Home Decoration
 advancement.of:home_decoration.desc=Craft a Table
-
 advancement.of:item_display=Look at this!
 advancement.of:item_display.desc=Craft an Item Display
-
 advancement.of:stained_item_display=Look at those Colors!
 advancement.of:stained_item_display.desc=Craft a Stained Item Display
-
 advancement.of:lamp=Lights.
 advancement.of:lamp.desc=Craft a Lamp
-
 advancement.of:coffee_table=Short Table
 advancement.of:coffee_table.desc=Craft a Coffee Table
-
 advancement.of:bar_stool=Colorful Bar
 advancement.of:bar_stool.desc=Craft a Bar Stool
-
 advancement.of:coffee_bean=Coffee Beans!
 advancement.of:coffee_bean.desc=Get a Coffee Bean
-
 advancement.of:coffee_powder=Ground Up Coffee
 advancement.of:coffee_powder.desc=Grind a Coffee Bean into Coffee Powder
-
 advancement.of:coffee=Coffee!
 advancement.of:coffee.desc=Make Coffee
-
 advancement.of:schnitzel=Schnitzel
 advancement.of:schnitzel.desc=Cook a Schnitzel
-
 advancement.of:safe=Stay Safe
 advancement.of:safe.desc=Craft a Safe
-
 advancement.of:battery=Power!
 advancement.of:battery.desc=Craft a Low Capacity Battery
-
 advancement.of:battery_med=More Power!
 advancement.of:battery_med.desc=Craft a Medium Capacity Battery
-
 advancement.of:battery_high=All the Power!
 advancement.of:battery_high.desc=Craft a High Voltage Battery
-
 advancement.of:charger=Charged Up
 advancement.of:charger.desc=Craft a Battery Charger
-
 advancement.of:chimney=Chim chim cher-ee!
 advancement.of:chimney.desc=Craft a Chimney
