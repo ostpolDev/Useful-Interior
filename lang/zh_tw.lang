@@ -1,0 +1,410 @@
+tile.table_oak.name=橡木桌
+tile.table_spruce.name=杉木桌
+tile.table_birch.name=樺木桌
+tile.table_jungle.name=叢林木桌
+tile.table_acacia.name=相思木桌
+tile.table_dark_oak.name=黑橡木桌
+
+tile.coffee_table_oak.name=橡木咖啡桌
+tile.coffee_table_spruce.name=杉木咖啡桌
+tile.coffee_table_birch.name=樺木咖啡桌
+tile.coffee_table_jungle.name=叢林木咖啡桌
+tile.coffee_table_acacia.name=相思木咖啡桌
+tile.coffee_table_dark_oak.name=黑橡木咖啡桌
+
+tile.cabinet_oak.name=橡木櫃
+tile.cabinet_spruce.name=杉木櫃
+tile.cabinet_birch.name=樺木櫃
+tile.cabinet_jungle.name=叢林木櫃
+tile.cabinet_acacia.name=相思木櫃
+tile.cabinet_dark_oak.name=黑橡木櫃
+
+tile.bathroom_cabinet.name=浴室櫃
+
+tile.item_display_default.name=物品展示框
+tile.item_display_glass.name=玻璃物品展示框
+tile.counter.name=廚房櫃檯
+tile.counter_sink.name=廚房櫃檯（水槽）
+tile.counter_drawer.name=廚房櫃檯（抽屜）
+tile.counter_stovetop.name=廚房櫃檯（爐頭）
+tile.counter_oven_normal.name=廚房櫃檯（烤箱）
+tile.counter_oven_stovetop.name=廚房櫃檯（烤箱和爐頭）
+tile.counter_fryer.name=廚房櫃檯（炸鍋）
+tile.counter_door.name=廚房櫃檯門
+tile.counter_charger.name=廚房櫃檯（充電器／電源插座）
+
+tile.chair_oak.name=橡木椅
+tile.chair_spruce.name=杉木椅
+tile.chair_birch.name=樺木椅
+tile.chair_jungle.name=叢林木椅
+tile.chair_acacia.name=相思木椅
+tile.chair_dark_oak.name=黑橡木椅
+
+tile.beach_chair_white.name=白色沙灘椅
+tile.beach_chair_orange.name=橙色沙灘椅
+tile.beach_chair_magenta.name=洋紅色沙灘椅
+tile.beach_chair_light_blue.name=淺藍色沙灘椅
+tile.beach_chair_yellow.name=黃色沙灘椅
+tile.beach_chair_lime.name=淺綠色沙灘椅
+tile.beach_chair_pink.name=粉紅色沙灘椅
+tile.beach_chair_gray.name=灰色沙灘椅
+tile.beach_chair_silver.name=淺灰色沙灘椅
+tile.beach_chair_cyan.name=青色沙灘椅
+tile.beach_chair_purple.name=紫色沙灘椅
+tile.beach_chair_blue.name=藍色沙灘椅
+tile.beach_chair_brown.name=棕色沙灘椅
+tile.beach_chair_green.name=綠色沙灘椅
+tile.beach_chair_red.name=紅色沙灘椅
+tile.beach_chair_black.name=黑色沙灘椅
+
+tile.bar_stool_white.name=白色酒吧椅
+tile.bar_stool_orange.name=橙色酒吧椅
+tile.bar_stool_magenta.name=洋紅色酒吧椅
+tile.bar_stool_light_blue.name=淺藍色酒吧椅
+tile.bar_stool_yellow.name=黃色酒吧椅
+tile.bar_stool_lime.name=淺綠色酒吧椅
+tile.bar_stool_pink.name=粉紅色酒吧椅
+tile.bar_stool_gray.name=灰色酒吧椅
+tile.bar_stool_silver.name=淺灰色酒吧椅
+tile.bar_stool_cyan.name=青色酒吧椅
+tile.bar_stool_purple.name=紫色酒吧椅
+tile.bar_stool_blue.name=藍色酒吧椅
+tile.bar_stool_brown.name=棕色酒吧椅
+tile.bar_stool_green.name=綠色酒吧椅
+tile.bar_stool_red.name=紅色酒吧椅
+tile.bar_stool_black.name=黑色酒吧椅
+
+tile.towel_holder_white.name=White Towel Holder
+tile.towel_holder_orange.name=Orange Towel Holder
+tile.towel_holder_magenta.name=Magenta Towel Holder
+tile.towel_holder_light_blue.name=Light Blue Towel Holder
+tile.towel_holder_yellow.name=Yellow Towel Holder
+tile.towel_holder_lime.name=Lime Towel Holder
+tile.towel_holder_pink.name=Pink Towel Holder
+tile.towel_holder_gray.name=Gray Towel Holder
+tile.towel_holder_silver.name=Light Gray Towel Holder
+tile.towel_holder_cyan.name=Cyan Towel Holder
+tile.towel_holder_purple.name=Purple Towel Holder
+tile.towel_holder_blue.name=Blue Towel Holder
+tile.towel_holder_brown.name=Brown Towel Holder
+tile.towel_holder_green.name=Green Towel Holder
+tile.towel_holder_red.name=Red Towel Holder
+tile.towel_holder_black.name=Black Towel Holder
+
+tile.counter_end.name=Counter End
+
+tile.display_cabinet_oak.name=Oak Display Cabinet
+tile.display_cabinet_spruce.name=Spruce Display Cabinet
+tile.display_cabinet_birch.name=Birch Display Cabinet
+tile.display_cabinet_jungle.name=Jungle Display Cabinet
+tile.display_cabinet_acacia.name=Acacia Display Cabinet
+tile.display_cabinet_dark_oak.name=Dark Oak Display Cabinet
+
+tile.shelf_oak.name=Oak Shelf
+tile.shelf_spruce.name=Spruce Shelf
+tile.shelf_birch.name=Birch Shelf
+tile.shelf_jungle.name=Jungle Shelf
+tile.shelf_acacia.name=Acacia Shelf
+tile.shelf_dark_oak.name=Dark Oak Shelf
+
+tile.kitchen_cabinet_left.name=Kitchen Cabinet (Left)
+tile.kitchen_cabinet_right.name=Kitchen Cabinet (Right)
+
+tile.bedside_table_oak.name=Oak Bedside Table
+tile.bedside_table_spruce.name=Spruce Bedside Table
+tile.bedside_table_birch.name=Birch Bedside Table
+tile.bedside_table_jungle.name=Jungle Bedside Table
+tile.bedside_table_acacia.name=Acacia Bedside Table
+tile.bedside_table_dark_oak.name=Dark Oak Bedside Table
+
+#desks
+
+tile.desk_oak.name=Oak Desk
+tile.desk_spruce.name=Spruce Desk
+tile.desk_birch.name=Birch Desk
+tile.desk_jungle.name=Jungle Desk
+tile.desk_acacia.name=Acacia Desk
+tile.desk_dark_oak.name=Dark Oak Desk
+
+tile.pillar.name=Pillar
+
+tile.campfire.name=Campfire
+
+tile.safe.name=Safe
+
+#lamps
+
+tile.lamp_white.name=White Lamp
+tile.lamp_orange.name=Orange Lamp
+tile.lamp_magenta.name=Magenta Lamp
+tile.lamp_light_blue.name=Light Blue Lamp
+tile.lamp_yellow.name=Yellow Lamp
+tile.lamp_lime.name=Lime Lamp
+tile.lamp_pink.name=Pink Lamp
+tile.lamp_gray.name=Gray Lamp
+tile.lamp_silver.name=Light Gray Lamp
+tile.lamp_cyan.name=Cyan Lamp
+tile.lamp_purple.name=Purple Lamp
+tile.lamp_blue.name=Blue Lamp
+tile.lamp_brown.name=Brown Lamp
+tile.lamp_green.name=Green Lamp
+tile.lamp_red.name=Red Lamp
+tile.lamp_black.name=Black Lamp
+
+tile.stained_item_display_white.name=White Item Display
+tile.stained_item_display_orange.name=Orange Item Display
+tile.stained_item_display_magenta.name=Magenta Item Display
+tile.stained_item_display_light_blue.name=Light Blue Item Display
+tile.stained_item_display_yellow.name=Yellow Item Display
+tile.stained_item_display_lime.name=Lime Item Display
+tile.stained_item_display_pink.name=Pink Item Display
+tile.stained_item_display_gray.name=Gray Item Display
+tile.stained_item_display_silver.name=Light Gray Item Display
+tile.stained_item_display_cyan.name=Cyan Item Display
+tile.stained_item_display_purple.name=Purple Item Display
+tile.stained_item_display_blue.name=Blue Item Display
+tile.stained_item_display_brown.name=Brown Item Display
+tile.stained_item_display_green.name=Green Item Display
+tile.stained_item_display_red.name=Red Item Display
+tile.stained_item_display_black.name=Black Item Display
+
+tile.lantern.name=Lantern
+
+tile.microwave.name=Microwave
+
+tile.pan.name=Pan
+
+tile.fridge.name=Fridge
+
+tile.trash_can.name=Trash Can
+
+tile.sink.name=Sink
+tile.towel_holder.name=Towel Holder
+
+tile.bench_oak.name=Oak Bench
+tile.bench_spruce.name=Spruce Bench
+tile.bench_birch.name=Birch Bench
+tile.bench_jungle.name=Jungle Bench
+tile.bench_acacia.name=Acacia Bench
+tile.bench_dark_oak.name=Dark Oak Bench
+
+tile.coffee_machine_empty.name=Coffee Machine (Empty)
+tile.coffee_machine_water.name=Coffee Machine (Water)
+tile.coffee_machine_coffee.name=Coffee Machine (Coffee)
+tile.grinder.name=Grinder
+
+tile.charger.name=Battery Charger
+
+tile.glass_roof.name=Glass Roof
+
+# Glass Roofs
+
+tile.stained_glass_roof_white.name=White Glass Roof
+tile.stained_glass_roof_orange.name=Orange Glass Roof
+tile.stained_glass_roof_magenta.name=Magenta Glass Roof
+tile.stained_glass_roof_light_blue.name=Light Blue Glass Roof
+tile.stained_glass_roof_yellow.name=Yellow Glass Roof
+tile.stained_glass_roof_lime.name=Lime Glass Roof
+tile.stained_glass_roof_pink.name=Pink Glass Roof
+tile.stained_glass_roof_gray.name=Gray Glass Roof
+tile.stained_glass_roof_silver.name=Light Gray Glass Roof
+tile.stained_glass_roof_cyan.name=Cyan Glass Roof
+tile.stained_glass_roof_purple.name=Purple Glass Roof
+tile.stained_glass_roof_blue.name=Blue Glass Roof
+tile.stained_glass_roof_brown.name=Brown Glass Roof
+tile.stained_glass_roof_green.name=Green Glass Roof
+tile.stained_glass_roof_red.name=Red Glass Roof
+tile.stained_glass_roof_black.name=Black Glass Roof
+
+# Outdoor Storage
+
+tile.outdoor_storage_oak.name=Oak Outdoor Storage
+tile.outdoor_storage_spruce.name=Spruce Outdoor Storage
+tile.outdoor_storage_birch.name=Birch Outdoor Storage
+tile.outdoor_storage_jungle.name=Jungle Outdoor Storage
+tile.outdoor_storage_acacia.name=Acacia Outdoor Storage
+tile.outdoor_storage_dark_oak.name=Dark Oak Outdoor Storage
+
+# Misc
+
+tile.sandbox.name=Sandbox
+tile.sittable_log_oak.name=Oak Log Bench
+tile.sittable_log_spruce.name=Spruce Log Bench
+tile.sittable_log_birch.name=Birch Log Bench
+tile.sittable_log_jungle.name=Jungle Log Bench
+tile.sittable_log_acacia.name=Acacia Log Bench
+tile.sittable_log_dark_oak.name=Dark Oak Log Bench
+tile.litterbox.name=Litter Box
+
+tile.lightswitch.name=Light Switch
+tile.chimney.name=Chimney
+
+tile.pole_ladder.name=Pole Ladder
+
+tile.toilet.name=Toilet
+tile.toilet_paper_holder.name=Toilet Paper Holder
+
+tile.bathroom_window.name=Bathroom Window
+
+item.hand.name=World Interaction
+
+# Containers
+
+container.cabinet.name=Cabinet
+container.drawer.name=Drawer
+container.microwave.name=Microwave
+container.microwave_upgraded.name=Microwave (Reinforced)
+container.oven.name=Oven
+container.fridge.name=Fridge
+container.freezer.name=Freezer
+container.kitchen_cabinet.name=Kitchen Cabinet
+container.desk.name=Desk
+container.safe.name=Safe
+container.bedside_table.name=Bedside Table
+container.charger.name=Battery Charger
+container.stovetop.name=Stove Top
+container.fryer.name=Fryer
+container.outdoor_storage.name=Outdoor Storage
+
+# Tooltips & Messages
+
+of.msg.safe=This safe is owned by %s
+of.msg.trashcan=ALT + Right-Click to Delete the Held item
+
+of.tooltip.shift=§ePress Shift
+
+of.tooltip.infoSafe=Can only be opened and destroyed by the Player that placed the Safe!
+of.tooltip.upgrade.storage=Increase Safe Storage
+of.tooltip.pan=Place on %s or Lit Furnace to Cook Food
+of.tooltip.sink=Infinite Water Source
+of.tooltip.upgrade.0=Reinforce a Microwave to Smelt Everything
+of.tooltip.towel=Clears all Active Potion Effects
+
+of.tooltip.coffee_machine.0=Activate with an Water Bottle to fill the machine with Water
+of.tooltip.coffee_machine.1=Activate with Coffee Powder to turn the water into coffee
+of.tooltip.coffee_machine.2=Activate with an Empty Bottle to get Coffee
+of.tooltip.mug_block=WIP
+
+of.tooltip.nopower=Energy Usage has been disabled
+of.tooltip.fryer=Sneak + Right Click to open Battery Slot
+
+of.subtitle.microwave=Microwave <BING>
+of.subtitle.flush=Toilet Flushing
+
+# Items
+
+item.nail.name=Nail
+item.microwave_upgrade.name=Microwave Upgrade
+
+item.bucket_magma.name=Magma Bucket
+item.bucket_obsidian.name=Obsidian Bucket
+
+item.coffee_bean.name=Coffee Beans
+item.coffee_powder.name=Coffee Powder
+item.coffee_bottle.name=Coffee
+item.flour.name=Flour
+
+item.paneed_beef.name=Panéed Beef
+item.schnitzel.name=Schnitzel
+item.breadcrumbs.name=Breadcrumbs
+
+item.schnitzel_semmel.name=Schnitzel in a roll
+item.bread_roll.name=Bread Roll
+item.dough.name=Dough
+
+tile.mug_empty.name=Empty Mug Block
+tile.mug_coffee.name=Coffee Mug Block
+
+item.item_mug_empty.name=Empty Mug
+item.item_mug_coffee.name=Coffee Mug
+
+item.battery.name=Low Capacity Battery
+item.battery_medium.name=Medium Capacity Battery
+item.battery_high.name=High Capacity Battery
+item.battery_creative.name=Creative Battery
+
+item.toilet_paper.name=Toilet Paper
+item.toilet_paper_roll.name=Toilet Paper Roll
+item.cardboard.name=Cardboard
+
+itemGroup.of=Useful Interior
+
+# ADVANCEMENTS
+
+advancement.of:root=Useful Interior
+advancement.of:root.desc=Craft a Nail
+
+advancement.of:kitchen=Kitchen
+advancement.of:kitchen.desc=Craft a Counter
+
+advancement.of:stove_top=Stove Top
+advancement.of:stove_top.desc=Craft a Counter with Stove Top
+
+advancement.of:oven=Oven
+advancement.of:oven.desc=Craft an Oven
+
+advancement.of:oven_stove=Multitasking
+advancement.of:oven_stove.desc=Combine the Stove Top and the Oven
+
+advancement.of:fryer=Deep Fried
+advancement.of:fryer.desc=Craft a Fryer
+
+advancement.of:counter_sink=Washing Up
+advancement.of:counter_sink.desc=Craft a Counter with Sink
+
+advancement.of:fridge=Keeping Cool
+advancement.of:fridge.desc=Craft a Fridge
+
+advancement.of:microwave=Heating Up
+advancement.of:microwave.desc=Craft a Microwave
+
+advancement.of:grinder=Ground Up
+advancement.of:grinder.desc=Craft a Grinder
+
+advancement.of:home_decoration=Home Decoration
+advancement.of:home_decoration.desc=Craft a Table
+
+advancement.of:item_display=Look at this!
+advancement.of:item_display.desc=Craft an Item Display
+
+advancement.of:stained_item_display=Look at those Colors!
+advancement.of:stained_item_display.desc=Craft a Stained Item Display
+
+advancement.of:lamp=Lights.
+advancement.of:lamp.desc=Craft a Lamp
+
+advancement.of:coffee_table=Short Table
+advancement.of:coffee_table.desc=Craft a Coffee Table
+
+advancement.of:bar_stool=Colorful Bar
+advancement.of:bar_stool.desc=Craft a Bar Stool
+
+advancement.of:coffee_bean=Coffee Beans!
+advancement.of:coffee_bean.desc=Get a Coffee Bean
+
+advancement.of:coffee_powder=Ground Up Coffee
+advancement.of:coffee_powder.desc=Grind a Coffee Bean into Coffee Powder
+
+advancement.of:coffee=Coffee!
+advancement.of:coffee.desc=Make Coffee
+
+advancement.of:schnitzel=Schnitzel
+advancement.of:schnitzel.desc=Cook a Schnitzel
+
+advancement.of:safe=Stay Safe
+advancement.of:safe.desc=Craft a Safe
+
+advancement.of:battery=Power!
+advancement.of:battery.desc=Craft a Low Capacity Battery
+
+advancement.of:battery_med=More Power!
+advancement.of:battery_med.desc=Craft a Medium Capacity Battery
+
+advancement.of:battery_high=All the Power!
+advancement.of:battery_high.desc=Craft a High Voltage Battery
+
+advancement.of:charger=Charged Up
+advancement.of:charger.desc=Craft a Battery Charger
+
+advancement.of:chimney=Chim chim cher-ee!
+advancement.of:chimney.desc=Craft a Chimney
