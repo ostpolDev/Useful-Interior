@@ -21,8 +21,6 @@ tile.cabinet_dark_oak.name=黑橡木櫃
 
 tile.bathroom_cabinet.name=浴室櫃
 
-tile.item_display_default.name=物品展示框
-tile.item_display_glass.name=玻璃物品展示框
 tile.counter.name=廚房櫃檯
 tile.counter_sink.name=廚房櫃檯（水槽）
 tile.counter_drawer.name=廚房櫃檯（抽屜）
@@ -148,73 +146,72 @@ tile.lamp_green.name=綠色燈
 tile.lamp_red.name=紅色燈
 tile.lamp_black.name=黑色燈
 
-tile.stained_item_display_white.name=White Item Display
-tile.stained_item_display_orange.name=Orange Item Display
-tile.stained_item_display_magenta.name=Magenta Item Display
-tile.stained_item_display_light_blue.name=Light Blue Item Display
-tile.stained_item_display_yellow.name=Yellow Item Display
-tile.stained_item_display_lime.name=Lime Item Display
-tile.stained_item_display_pink.name=Pink Item Display
-tile.stained_item_display_gray.name=Gray Item Display
-tile.stained_item_display_silver.name=Light Gray Item Display
-tile.stained_item_display_cyan.name=Cyan Item Display
-tile.stained_item_display_purple.name=Purple Item Display
-tile.stained_item_display_blue.name=Blue Item Display
-tile.stained_item_display_brown.name=Brown Item Display
-tile.stained_item_display_green.name=Green Item Display
-tile.stained_item_display_red.name=Red Item Display
-tile.stained_item_display_black.name=Black Item Display
+tile.item_display_default.name=物品展示框
+tile.item_display_glass.name=玻璃物品展示框
+tile.stained_item_display_white.name=白色物品展示框
+tile.stained_item_display_orange.name=橙色物品展示框
+tile.stained_item_display_magenta.name=洋紅色物品展示框
+tile.stained_item_display_light_blue.name=淺藍色物品展示框
+tile.stained_item_display_yellow.name=黃色物品展示框
+tile.stained_item_display_lime.name=淺綠色物品展示框
+tile.stained_item_display_pink.name=粉紅色物品展示框
+tile.stained_item_display_gray.name=灰色物品展示框
+tile.stained_item_display_silver.name=淺灰色物品展示框
+tile.stained_item_display_cyan.name=青色物品展示框
+tile.stained_item_display_purple.name=紫色物品展示框
+tile.stained_item_display_blue.name=藍色物品展示框
+tile.stained_item_display_brown.name=棕色物品展示框
+tile.stained_item_display_green.name=綠色物品展示框
+tile.stained_item_display_red.name=紅色物品展示框
+tile.stained_item_display_black.name=黑色物品展示框
 
-tile.lantern.name=Lantern
+tile.lantern.name=燈籠
 
-tile.microwave.name=Microwave
+tile.microwave.name=微波爐
 
-tile.pan.name=Pan
+tile.pan.name=平鍋
 
-tile.fridge.name=Fridge
+tile.fridge.name=冰箱
 
-tile.trash_can.name=Trash Can
+tile.trash_can.name=垃圾箱
 
-tile.sink.name=Sink
-tile.towel_holder.name=Towel Holder
+tile.sink.name=水槽
+tile.towel_holder.name=毛巾架
 
-tile.bench_oak.name=Oak Bench
-tile.bench_spruce.name=Spruce Bench
-tile.bench_birch.name=Birch Bench
-tile.bench_jungle.name=Jungle Bench
-tile.bench_acacia.name=Acacia Bench
-tile.bench_dark_oak.name=Dark Oak Bench
+tile.bench_oak.name=橡木長椅
+tile.bench_spruce.name=杉木長椅
+tile.bench_birch.name=樺木長椅
+tile.bench_jungle.name=叢林木長椅
+tile.bench_acacia.name=相思木長椅
+tile.bench_dark_oak.name=黑橡木長椅
 
-tile.coffee_machine_empty.name=Coffee Machine (Empty)
-tile.coffee_machine_water.name=Coffee Machine (Water)
-tile.coffee_machine_coffee.name=Coffee Machine (Coffee)
-tile.grinder.name=Grinder
+tile.coffee_machine_empty.name=咖啡機（空）
+tile.coffee_machine_water.name=咖啡機（水）
+tile.coffee_machine_coffee.name=咖啡機（咖啡）
+tile.grinder.name=粉碎機
 
-tile.charger.name=Battery Charger
-
-tile.glass_roof.name=Glass Roof
+tile.charger.name=電池充電器
 
 # Glass Roofs
-
-tile.stained_glass_roof_white.name=White Glass Roof
-tile.stained_glass_roof_orange.name=Orange Glass Roof
-tile.stained_glass_roof_magenta.name=Magenta Glass Roof
-tile.stained_glass_roof_light_blue.name=Light Blue Glass Roof
-tile.stained_glass_roof_yellow.name=Yellow Glass Roof
-tile.stained_glass_roof_lime.name=Lime Glass Roof
-tile.stained_glass_roof_pink.name=Pink Glass Roof
-tile.stained_glass_roof_gray.name=Gray Glass Roof
-tile.stained_glass_roof_silver.name=Light Gray Glass Roof
-tile.stained_glass_roof_cyan.name=Cyan Glass Roof
-tile.stained_glass_roof_purple.name=Purple Glass Roof
-tile.stained_glass_roof_blue.name=Blue Glass Roof
-tile.stained_glass_roof_brown.name=Brown Glass Roof
-tile.stained_glass_roof_green.name=Green Glass Roof
-tile.stained_glass_roof_red.name=Red Glass Roof
-tile.stained_glass_roof_black.name=Black Glass Roof
+tile.glass_roof.name=玻璃屋頂
+tile.stained_glass_roof_white.name=白色玻璃屋頂
+tile.stained_glass_roof_orange.name=橙色玻璃屋頂
+tile.stained_glass_roof_magenta.name=洋紅色玻璃屋頂
+tile.stained_glass_roof_light_blue.name=淺藍色玻璃屋頂
+tile.stained_glass_roof_yellow.name=黃色玻璃屋頂
+tile.stained_glass_roof_lime.name=淺綠色玻璃屋頂
+tile.stained_glass_roof_pink.name=粉紅色玻璃屋頂
+tile.stained_glass_roof_gray.name=灰色玻璃屋頂
+tile.stained_glass_roof_silver.name=淺灰色玻璃屋頂
+tile.stained_glass_roof_cyan.name=青色玻璃屋頂
+tile.stained_glass_roof_purple.name=紫色玻璃屋頂
+tile.stained_glass_roof_blue.name=藍色玻璃屋頂
+tile.stained_glass_roof_brown.name=棕色玻璃屋頂
+tile.stained_glass_roof_green.name=綠色玻璃屋頂
+tile.stained_glass_roof_red.name=紅色玻璃屋頂
+tile.stained_glass_roof_black.name=黑色玻璃屋頂
 
 # Outdoor Storage
-
 tile.outdoor_storage_oak.name=Oak Outdoor Storage
 tile.outdoor_storage_spruce.name=Spruce Outdoor Storage
 tile.outdoor_storage_birch.name=Birch Outdoor Storage
@@ -223,7 +220,6 @@ tile.outdoor_storage_acacia.name=Acacia Outdoor Storage
 tile.outdoor_storage_dark_oak.name=Dark Oak Outdoor Storage
 
 # Misc
-
 tile.sandbox.name=Sandbox
 tile.sittable_log_oak.name=Oak Log Bench
 tile.sittable_log_spruce.name=Spruce Log Bench
