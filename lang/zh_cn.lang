@@ -4,19 +4,30 @@ tile.table_birch.name=桦木桌
 tile.table_jungle.name=丛林木桌
 tile.table_acacia.name=相思木桌
 tile.table_dark_oak.name=黑橡木桌
+
 tile.coffee_table_oak.name=橡木咖啡桌
 tile.coffee_table_spruce.name=杉木咖啡桌
 tile.coffee_table_birch.name=桦木咖啡桌
 tile.coffee_table_jungle.name=丛林木咖啡桌
 tile.coffee_table_acacia.name=相思木咖啡桌
 tile.coffee_table_dark_oak.name=黑橡木咖啡桌
+
+tile.bedside_table_oak.name=橡木床边桌
+tile.bedside_table_spruce.name=杉木床边桌
+tile.bedside_table_birch.name=桦木床边桌
+tile.bedside_table_jungle.name=丛林木床边桌
+tile.bedside_table_acacia.name=相思木床边桌
+tile.bedside_table_dark_oak.name=黑橡木床边桌
+
 tile.cabinet_oak.name=橡木柜
 tile.cabinet_spruce.name=杉木柜
 tile.cabinet_birch.name=桦木柜
 tile.cabinet_jungle.name=丛林木柜
 tile.cabinet_acacia.name=相思木柜
 tile.cabinet_dark_oak.name=黑橡木柜
+
 tile.bathroom_cabinet.name=浴室柜
+
 tile.counter.name=厨房柜台
 tile.counter_sink.name=厨房柜台（水槽）
 tile.counter_drawer.name=厨房柜台（抽屉）
@@ -26,13 +37,16 @@ tile.counter_oven_stovetop.name=厨房柜台（烤炉和炉头）
 tile.counter_fryer.name=厨房柜台（炸锅）
 tile.counter_door.name=厨房柜台门
 tile.counter_charger.name=厨房柜台（充电器／电源插座）
+tile.counter_crafting_table.name=厨房柜台（工作台）
 tile.counter_end.name=厨房柜台（转角）
+
 tile.chair_oak.name=橡木椅
 tile.chair_spruce.name=杉木椅
 tile.chair_birch.name=桦木椅
 tile.chair_jungle.name=丛林木椅
 tile.chair_acacia.name=相思木椅
 tile.chair_dark_oak.name=黑橡木椅
+
 tile.beach_chair_white.name=白色沙滩椅
 tile.beach_chair_orange.name=橙色沙滩椅
 tile.beach_chair_magenta.name=洋红色沙滩椅
@@ -49,6 +63,7 @@ tile.beach_chair_brown.name=棕色沙滩椅
 tile.beach_chair_green.name=绿色沙滩椅
 tile.beach_chair_red.name=红色沙滩椅
 tile.beach_chair_black.name=黑色沙滩椅
+
 tile.bar_stool_white.name=白色酒吧椅
 tile.bar_stool_orange.name=橙色酒吧椅
 tile.bar_stool_magenta.name=洋红色酒吧椅
@@ -65,6 +80,7 @@ tile.bar_stool_brown.name=棕色酒吧椅
 tile.bar_stool_green.name=绿色酒吧椅
 tile.bar_stool_red.name=红色酒吧椅
 tile.bar_stool_black.name=黑色酒吧椅
+
 tile.towel_holder_white.name=白色毛巾架
 tile.towel_holder_orange.name=橙色毛巾架
 tile.towel_holder_magenta.name=洋红色毛巾架
@@ -81,28 +97,49 @@ tile.towel_holder_brown.name=棕色毛巾架
 tile.towel_holder_green.name=绿色毛巾架
 tile.towel_holder_red.name=红色毛巾架
 tile.towel_holder_black.name=黑色毛巾架
+
 tile.display_cabinet_oak.name=橡木展示柜
 tile.display_cabinet_spruce.name=杉木展示柜
 tile.display_cabinet_birch.name=桦木展示柜
 tile.display_cabinet_jungle.name=丛林木展示柜
 tile.display_cabinet_acacia.name=相思木展示柜
 tile.display_cabinet_dark_oak.name=黑橡木展示柜
+
 tile.shelf_oak.name=橡木架子
 tile.shelf_spruce.name=杉木架子
 tile.shelf_birch.name=桦木架子
 tile.shelf_jungle.name=丛林木架子
 tile.shelf_acacia.name=相思木架子
 tile.shelf_dark_oak.name=黑橡木架子
+
 tile.kitchen_cabinet_left.name=橱柜（左）
 tile.kitchen_cabinet_right.name=橱柜（右）
-tile.bedside_table_oak.name=橡木床边桌
-tile.bedside_table_spruce.name=杉木床边桌
-tile.bedside_table_birch.name=桦木床边桌
-tile.bedside_table_jungle.name=丛林木床边桌
-tile.bedside_table_acacia.name=相思木床边桌
-tile.bedside_table_dark_oak.name=黑橡木床边桌
 
-# Desks
+tile.park_bench_oak.name=橡木公园长椅
+tile.park_bench_spruce.name=杉木公园长椅
+tile.park_bench_birch.name=桦木公园长椅
+tile.park_bench_jungle.name=丛林木公园长椅
+tile.park_bench_acacia.name=相思木公园长椅
+tile.park_bench_dark_oak.name=黑橡木公园长椅
+
+tile.park_trashcan_white.name=白色公园垃圾桶
+tile.park_trashcan_orange.name=橙色公园垃圾桶
+tile.park_trashcan_lime.name=浅绿色公园垃圾桶
+tile.park_trashcan_magenta.name=洋红色公园垃圾桶
+tile.park_trashcan_light_blue.name=浅蓝色公园垃圾桶
+tile.park_trashcan_yellow.name=黄色公园垃圾桶
+tile.park_trashcan_pink.name=粉红色公园垃圾桶
+tile.park_trashcan_gray.name=灰色公园垃圾桶
+tile.park_trashcan_silver.name=浅灰色公园垃圾桶
+tile.park_trashcan_cyan.name=青色公园垃圾桶
+tile.park_trashcan_purple.name=紫色公园垃圾桶
+tile.park_trashcan_blue.name=蓝色公园垃圾桶
+tile.park_trashcan_brown.name=棕色公园垃圾桶
+tile.park_trashcan_green.name=绿色公园垃圾桶
+tile.park_trashcan_red.name=红色公园垃圾桶
+tile.park_trashcan_black.name=黑色公园垃圾桶
+
+# Desk
 tile.desk_oak.name=橡木书桌
 tile.desk_spruce.name=杉木书桌
 tile.desk_birch.name=桦木书桌
@@ -110,7 +147,7 @@ tile.desk_jungle.name=丛林木书桌
 tile.desk_acacia.name=相思木书桌
 tile.desk_dark_oak.name=黑橡木书桌
 
-# Lamps
+# Lamp
 tile.lamp_white.name=白色灯
 tile.lamp_orange.name=橙色灯
 tile.lamp_magenta.name=洋红色灯
@@ -130,6 +167,7 @@ tile.lamp_black.name=黑色灯
 
 tile.item_display_default.name=物品展示框
 tile.item_display_glass.name=玻璃物品展示框
+
 tile.stained_item_display_white.name=白色物品展示框
 tile.stained_item_display_orange.name=橙色物品展示框
 tile.stained_item_display_magenta.name=洋红色物品展示框
@@ -153,6 +191,7 @@ tile.bench_birch.name=桦木长椅
 tile.bench_jungle.name=丛林木长椅
 tile.bench_acacia.name=相思木长椅
 tile.bench_dark_oak.name=黑橡木长椅
+
 tile.sittable_log_oak.name=橡木原木长椅
 tile.sittable_log_spruce.name=杉木原木长椅
 tile.sittable_log_birch.name=桦木原木长椅
@@ -173,11 +212,14 @@ tile.sink.name=水槽
 tile.towel_holder.name=毛巾架
 tile.pillar.name=柱石
 tile.campfire.name=营火
+tile.campfire_normal.name=营火
+tile.campfire_rim.name=营火（连鹅卵石边缘）
 tile.safe.name=保险箱
 tile.grinder.name=研磨机
 tile.charger.name=电池充电器
+tile.gramophone.name=留声机
 
-# Glass Roofs
+# Glass Roof
 tile.glass_roof.name=玻璃屋顶
 tile.stained_glass_roof_white.name=白色玻璃屋顶
 tile.stained_glass_roof_orange.name=橙色玻璃屋顶
@@ -206,16 +248,60 @@ tile.outdoor_storage_dark_oak.name=黑橡木户外储物箱
 
 # Misc
 tile.sandbox.name=沙盒
-tile.litterbox.name=兔子厕所[?]
+tile.litterbox.name=兔子厕所
 tile.lightswitch.name=电灯开关
 tile.chimney.name=烟囱
 tile.pole_ladder.name=杆梯
 tile.toilet.name=马桶
 tile.toilet_paper_holder.name=卫生纸架
 tile.bathroom_window.name=浴室窗户
-item.hand.name=世界互动[?]
+item.hand.name=世界互动
+tile.sand_path_sand.name=沙径
+tile.sand_path_red_sand.name=红沙径
 
-# Containers
+tile.tiki_torch_oak.name=橡木Tiki火把
+tile.tiki_torch_spruce.name=杉木Tiki火把
+tile.tiki_torch_birch.name=桦木Tiki火把
+tile.tiki_torch_jungle.name=丛林木Tiki火把
+tile.tiki_torch_acacia.name=相思木Tiki火把
+tile.tiki_torch_dark_oak.name=黑橡木Tiki火把
+
+tile.park_path.name=公园径
+tile.dirt_park_path.name=泥土公园径
+
+tile.street_lantern.name=街道灯笼
+tile.water_particle.name=水粒子（效果）
+
+item.cobblestone_rim.name=鹅卵石边缘
+
+tile.gravestone_small.name=小墓碑
+tile.gravestone_medium.name=中墓碑
+tile.gravestone_large.name=大墓碑
+
+# Nether
+tile.nether_bedside_table.name=地狱床边桌
+tile.nether_chair.name=地狱椅
+tile.nether_brick_chair.name=地狱砖椅
+tile.nether_table.name=地狱桌 
+tile.nether_coffee_table.name=地狱咖啡桌
+tile.nether_outdoor_storage.name=地狱户外储物箱
+tile.nether_toilet.name=地狱马桶
+tile.nether_shelf.name=地狱架子
+tile.nether_display_cabinet=地狱展示柜
+tile.nether_cabinet.name=地狱柜
+
+# End
+tile.end_bedside_table.name=终界床边桌
+tile.end_chair.name=终界椅
+tile.end_table.name=终界桌
+tile.end_coffee_table.name=终界咖啡桌
+tile.end_outdoor_storage.name=终界户外储物箱
+tile.end_toilet.name=终界马桶
+tile.end_shelf.name=终界架子
+tile.end_display_cabinet.name=终界展示柜
+tile.end_cabinet.name=终界柜
+
+# Container
 container.cabinet.name=柜
 container.drawer.name=抽屉
 container.microwave.name=微波炉
@@ -232,9 +318,9 @@ container.stovetop.name=炉头
 container.fryer.name=炸锅
 container.outdoor_storage.name=户外储物箱
 
-# Tooltips & Messages
+# Tooltip & Message
 of.msg.safe=这个保险箱是由玩家%s拥有的
-of.msg.trashcan=Alt＋右键点击以删除手持的物品
+of.msg.trashcan=Ctrl＋右键点击以删除手持的物品
 of.tooltip.shift=§e按Shift
 of.tooltip.infoSafe=只能够由拥有这个保险箱的玩家打开和破坏！
 of.tooltip.upgrade.storage=增加保险箱存储空间
@@ -248,10 +334,13 @@ of.tooltip.coffee_machine.2=使用空的玻璃瓶以获得咖啡
 of.tooltip.mug_block=制作中
 of.tooltip.nopower=能源使用已停用
 of.tooltip.fryer=蹲下并右键点击以打开电池栏
+of.tooltip.lamp_post=4个方格高
 of.subtitle.microwave=微波炉叮一声
 of.subtitle.flush=马桶冲洗中
+of.tooltip.toilet.0=Shift＋点击以打开／关闭
+of.tooltip.toilet.1=手持卫生纸并右键点击以冲洗
 
-# Items
+# Item
 item.nail.name=钉子
 item.microwave_upgrade.name=微波炉升级
 item.bucket_magma.name=岩浆桶
@@ -263,6 +352,7 @@ item.flour.name=面粉
 item.paneed_beef.name=Panéed牛肉
 item.schnitzel.name=肉片
 item.breadcrumbs.name=面包屑
+item.coffee_cookie.name=咖啡曲奇
 item.schnitzel_semmel.name=肉片卷
 item.bread_roll.name=面包卷
 item.dough.name=面团
@@ -277,6 +367,9 @@ item.battery_creative.name=创造模式电池
 item.toilet_paper.name=卫生纸
 item.toilet_paper_roll.name=卫生纸卷
 item.cardboard.name=纸板
+
+item.rubber_duck_float.name=橡皮鸭
+entity.rubber_duck.name=橡皮鸭
 
 itemGroup.of=有用的内饰
 
