@@ -28,6 +28,8 @@ tile.cabinet_dark_oak.name=黑橡木柜
 
 tile.bathroom_cabinet.name=浴室柜
 
+tile.item_display_default.name=物品展示框
+tile.item_display_glass.name=玻璃物品展示框
 tile.counter.name=厨房柜台
 tile.counter_sink.name=厨房柜台（水槽）
 tile.counter_drawer.name=厨房柜台（抽屉）
@@ -36,9 +38,8 @@ tile.counter_oven_normal.name=厨房柜台（烤炉）
 tile.counter_oven_stovetop.name=厨房柜台（烤炉和炉头）
 tile.counter_fryer.name=厨房柜台（炸锅）
 tile.counter_door.name=厨房柜台门
-tile.counter_charger.name=厨房柜台（充电器／电源插座）
+tile.counter_charger.name=厨房柜台（充电器）
 tile.counter_crafting_table.name=厨房柜台（工作台）
-tile.counter_end.name=厨房柜台（转角）
 
 tile.chair_oak.name=橡木椅
 tile.chair_spruce.name=杉木椅
@@ -98,6 +99,8 @@ tile.towel_holder_green.name=绿色毛巾架
 tile.towel_holder_red.name=红色毛巾架
 tile.towel_holder_black.name=黑色毛巾架
 
+tile.counter_end.name=厨房柜台（转角）
+
 tile.display_cabinet_oak.name=橡木展示柜
 tile.display_cabinet_spruce.name=杉木展示柜
 tile.display_cabinet_birch.name=桦木展示柜
@@ -122,6 +125,8 @@ tile.park_bench_jungle.name=丛林木公园长椅
 tile.park_bench_acacia.name=相思木公园长椅
 tile.park_bench_dark_oak.name=黑橡木公园长椅
 
+tile.gramophone.name=留声机
+
 tile.park_trashcan_white.name=白色公园垃圾桶
 tile.park_trashcan_orange.name=橙色公园垃圾桶
 tile.park_trashcan_lime.name=浅绿色公园垃圾桶
@@ -139,7 +144,17 @@ tile.park_trashcan_green.name=绿色公园垃圾桶
 tile.park_trashcan_red.name=红色公园垃圾桶
 tile.park_trashcan_black.name=黑色公园垃圾桶
 
-# Desk
+tile.empty_bookshelf.name=空的书架
+tile.almost_empty_bookshelf.name=几乎空的书架
+tile.half_empty_bookshelf.name=半空的书架
+
+tile.extractor_fan.name=排气扇
+
+tile.door_garland.name=门形花环
+tile.door_garland_blinking.name=闪烁的门形花环
+
+tile.lunchbox.name=午餐盒
+
 tile.desk_oak.name=橡木书桌
 tile.desk_spruce.name=杉木书桌
 tile.desk_birch.name=桦木书桌
@@ -147,7 +162,14 @@ tile.desk_jungle.name=丛林木书桌
 tile.desk_acacia.name=相思木书桌
 tile.desk_dark_oak.name=黑橡木书桌
 
-# Lamp
+tile.pillar.name=柱石
+
+tile.campfire.name=营火
+tile.campfire_normal.name=营火
+tile.campfire_rim.name=营火（连鹅卵石边缘）
+
+tile.safe.name=保险箱
+
 tile.lamp_white.name=白色灯
 tile.lamp_orange.name=橙色灯
 tile.lamp_magenta.name=洋红色灯
@@ -164,9 +186,6 @@ tile.lamp_brown.name=棕色灯
 tile.lamp_green.name=绿色灯
 tile.lamp_red.name=红色灯
 tile.lamp_black.name=黑色灯
-
-tile.item_display_default.name=物品展示框
-tile.item_display_glass.name=玻璃物品展示框
 
 tile.stained_item_display_white.name=白色物品展示框
 tile.stained_item_display_orange.name=橙色物品展示框
@@ -185,6 +204,19 @@ tile.stained_item_display_green.name=绿色物品展示框
 tile.stained_item_display_red.name=红色物品展示框
 tile.stained_item_display_black.name=黑色物品展示框
 
+tile.lantern.name=灯笼
+
+tile.microwave.name=微波炉
+
+tile.pan.name=平底锅
+
+tile.fridge.name=冰箱
+
+tile.trash_can.name=垃圾桶
+
+tile.sink.name=水槽
+tile.towel_holder.name=毛巾架
+
 tile.bench_oak.name=橡木长椅
 tile.bench_spruce.name=杉木长椅
 tile.bench_birch.name=桦木长椅
@@ -192,35 +224,15 @@ tile.bench_jungle.name=丛林木长椅
 tile.bench_acacia.name=相思木长椅
 tile.bench_dark_oak.name=黑橡木长椅
 
-tile.sittable_log_oak.name=橡木原木长椅
-tile.sittable_log_spruce.name=杉木原木长椅
-tile.sittable_log_birch.name=桦木原木长椅
-tile.sittable_log_jungle.name=丛林木原木长椅
-tile.sittable_log_acacia.name=相思木原木长椅
-tile.sittable_log_dark_oak.name=黑橡木原木长椅
-
 tile.coffee_machine_empty.name=咖啡机（空）
 tile.coffee_machine_water.name=咖啡机（水）
 tile.coffee_machine_coffee.name=咖啡机（咖啡）
-
-tile.lantern.name=灯笼
-tile.microwave.name=微波炉
-tile.pan.name=平底锅
-tile.fridge.name=冰箱
-tile.trash_can.name=垃圾桶
-tile.sink.name=水槽
-tile.towel_holder.name=毛巾架
-tile.pillar.name=柱石
-tile.campfire.name=营火
-tile.campfire_normal.name=营火
-tile.campfire_rim.name=营火（连鹅卵石边缘）
-tile.safe.name=保险箱
 tile.grinder.name=研磨机
-tile.charger.name=电池充电器
-tile.gramophone.name=留声机
 
-# Glass Roof
+tile.charger.name=电池充电器
+
 tile.glass_roof.name=玻璃屋顶
+
 tile.stained_glass_roof_white.name=白色玻璃屋顶
 tile.stained_glass_roof_orange.name=橙色玻璃屋顶
 tile.stained_glass_roof_magenta.name=洋红色玻璃屋顶
@@ -238,7 +250,40 @@ tile.stained_glass_roof_green.name=绿色玻璃屋顶
 tile.stained_glass_roof_red.name=红色玻璃屋顶
 tile.stained_glass_roof_black.name=黑色玻璃屋顶
 
-# Outdoor Storage
+tile.candle_white.name=白色蜡烛
+tile.candle_orange.name=橙色蜡烛
+tile.candle_magenta.name=洋红色蜡烛
+tile.candle_light_blue.name=浅蓝色蜡烛
+tile.candle_yellow.name=黄色蜡烛
+tile.candle_lime.name=浅绿色蜡烛
+tile.candle_pink.name=粉红色蜡烛
+tile.candle_gray.name=灰色蜡烛
+tile.candle_silver.name=浅灰色蜡烛
+tile.candle_cyan.name=青色蜡烛
+tile.candle_purple.name=紫色蜡烛
+tile.candle_blue.name=蓝色蜡烛
+tile.candle_brown.name=棕色蜡烛
+tile.candle_green.name=绿色蜡烛
+tile.candle_red.name=红色蜡烛
+tile.candle_black.name=黑色蜡烛
+
+tile.christmas_ornament_white.name=白色圣诞装饰品
+tile.christmas_ornament_orange.name=橙色圣诞装饰品
+tile.christmas_ornament_magenta.name=洋红色圣诞装饰品
+tile.christmas_ornament_light_blue.name=浅蓝色圣诞装饰品
+tile.christmas_ornament_yellow.name=黄色圣诞装饰品
+tile.christmas_ornament_lime.name=浅绿色圣诞装饰品
+tile.christmas_ornament_pink.name=粉红色圣诞装饰品
+tile.christmas_ornament_gray.name=灰色圣诞装饰品
+tile.christmas_ornament_silver.name=浅灰色圣诞装饰品
+tile.christmas_ornament_cyan.name=青色圣诞装饰品
+tile.christmas_ornament_purple.name=紫色圣诞装饰品
+tile.christmas_ornament_blue.name=蓝色圣诞装饰品
+tile.christmas_ornament_brown.name=棕色圣诞装饰品
+tile.christmas_ornament_green.name=绿色圣诞装饰品
+tile.christmas_ornament_red.name=红色圣诞装饰品
+tile.christmas_ornament_black.name=黑色圣诞装饰品
+
 tile.outdoor_storage_oak.name=橡木户外储物箱
 tile.outdoor_storage_spruce.name=杉木户外储物箱
 tile.outdoor_storage_birch.name=桦木户外储物箱
@@ -246,16 +291,27 @@ tile.outdoor_storage_jungle.name=丛林木户外储物箱
 tile.outdoor_storage_acacia.name=相思木户外储物箱
 tile.outdoor_storage_dark_oak.name=黑橡木户外储物箱
 
-# Misc
 tile.sandbox.name=沙盒
+tile.sittable_log_oak.name=橡木原木长椅
+tile.sittable_log_spruce.name=杉木原木长椅
+tile.sittable_log_birch.name=桦木原木长椅
+tile.sittable_log_jungle.name=丛林木原木长椅
+tile.sittable_log_acacia.name=相思木原木长椅
+tile.sittable_log_dark_oak.name=黑橡木原木长椅
 tile.litterbox.name=兔子厕所
+
 tile.lightswitch.name=电灯开关
 tile.chimney.name=烟囱
+
 tile.pole_ladder.name=杆梯
+
 tile.toilet.name=马桶
 tile.toilet_paper_holder.name=卫生纸架
+
 tile.bathroom_window.name=浴室窗户
+
 item.hand.name=世界互动
+
 tile.sand_path_sand.name=沙径
 tile.sand_path_red_sand.name=红沙径
 
@@ -278,7 +334,8 @@ tile.gravestone_small.name=小墓碑
 tile.gravestone_medium.name=中墓碑
 tile.gravestone_large.name=大墓碑
 
-# Nether
+tile.star.name=星星
+
 tile.nether_bedside_table.name=地狱床边桌
 tile.nether_chair.name=地狱椅
 tile.nether_brick_chair.name=地狱砖椅
@@ -290,7 +347,6 @@ tile.nether_shelf.name=地狱架子
 tile.nether_display_cabinet=地狱展示柜
 tile.nether_cabinet.name=地狱柜
 
-# End
 tile.end_bedside_table.name=终界床边桌
 tile.end_chair.name=终界椅
 tile.end_table.name=终界桌
@@ -301,7 +357,6 @@ tile.end_shelf.name=终界架子
 tile.end_display_cabinet.name=终界展示柜
 tile.end_cabinet.name=终界柜
 
-# Container
 container.cabinet.name=柜
 container.drawer.name=抽屉
 container.microwave.name=微波炉
@@ -318,52 +373,68 @@ container.stovetop.name=炉头
 container.fryer.name=炸锅
 container.outdoor_storage.name=户外储物箱
 
-# Tooltip & Message
 of.msg.safe=这个保险箱是由玩家%s拥有的
 of.msg.trashcan=Ctrl＋右键点击以删除手持的物品
+
 of.tooltip.shift=§e按Shift
+
 of.tooltip.infoSafe=只能够由拥有这个保险箱的玩家打开和破坏！
 of.tooltip.upgrade.storage=增加保险箱存储空间
 of.tooltip.pan=放置在%s或冶炼中的熔炉以烹煮食物
 of.tooltip.sink=无限水源
 of.tooltip.upgrade.0=加强微波炉以烹煮任何食物
 of.tooltip.towel=清除所有药水效果
+
 of.tooltip.coffee_machine.0=使用水瓶为机器注水
 of.tooltip.coffee_machine.1=使用咖啡粉将机器内的水变成咖啡
 of.tooltip.coffee_machine.2=使用空的玻璃瓶以获得咖啡
 of.tooltip.mug_block=制作中
+
 of.tooltip.nopower=能源使用已停用
 of.tooltip.fryer=蹲下并右键点击以打开电池栏
+
 of.tooltip.lamp_post=4个方格高
+
 of.subtitle.microwave=微波炉叮一声
 of.subtitle.flush=马桶冲洗中
+
 of.tooltip.toilet.0=Shift＋点击以打开／关闭
 of.tooltip.toilet.1=手持卫生纸并右键点击以冲洗
 
-# Item
+of.tooltip.door_garland=花环只能够在其关联的方格被破坏时同时破坏
+
 item.nail.name=钉子
 item.microwave_upgrade.name=微波炉升级
+
 item.bucket_magma.name=岩浆桶
 item.bucket_obsidian.name=黑曜石桶
+
 item.coffee_bean.name=咖啡豆
 item.coffee_powder.name=咖啡粉
 item.coffee_bottle.name=咖啡
 item.flour.name=面粉
+
 item.paneed_beef.name=Panéed牛肉
 item.schnitzel.name=肉片
 item.breadcrumbs.name=面包屑
+
 item.coffee_cookie.name=咖啡曲奇
+
 item.schnitzel_semmel.name=肉片卷
 item.bread_roll.name=面包卷
 item.dough.name=面团
+
 tile.mug_empty.name=马克杯
 tile.mug_coffee.name=马克杯（咖啡）
+
 item.item_mug_empty.name=马克杯
 item.item_mug_coffee.name=马克杯（咖啡）
+
 item.battery.name=低等容量电池
 item.battery_medium.name=中等容量电池
 item.battery_high.name=高等容量电池
 item.battery_creative.name=创造模式电池
+
 item.toilet_paper.name=卫生纸
 item.toilet_paper_roll.name=卫生纸卷
 item.cardboard.name=纸板
@@ -371,58 +442,98 @@ item.cardboard.name=纸板
 item.rubber_duck_float.name=橡皮鸭
 entity.rubber_duck.name=橡皮鸭
 
+item.vegetable_mix.name=Vegetable Mix
+item.vegetable_oil.name=植物油
+item.solid_vegetable_oil.name=植物起酥油
+
 itemGroup.of=有用的内饰
 
-# Advancement
 advancement.of:root=有用的内饰
 advancement.of:root.desc=制作一颗钉子
+
 advancement.of:kitchen=厨房
 advancement.of:kitchen.desc=制作一个厨房柜台
+
 advancement.of:stove_top=炉头
 advancement.of:stove_top.desc=制作一个包含炉头的厨房柜台
+
 advancement.of:oven=烤炉
 advancement.of:oven.desc=制作一个烤炉
+
 advancement.of:oven_stove=多任务作业
 advancement.of:oven_stove.desc=合并炉头和烤炉
+
 advancement.of:fryer=油炸
 advancement.of:fryer.desc=制作一个炸锅
+
 advancement.of:counter_sink=洗碗碟
 advancement.of:counter_sink.desc=制作一个包含水槽的厨房柜台
+
 advancement.of:fridge=保持冰爽
 advancement.of:fridge.desc=制作一个冰箱
+
 advancement.of:microwave=加热
 advancement.of:microwave.desc=制作一个微波炉
+
 advancement.of:grinder=磨碎
 advancement.of:grinder.desc=制作一个研磨机
+
 advancement.of:home_decoration=装饰家居
 advancement.of:home_decoration.desc=制作一张桌子
+
 advancement.of:item_display=看看这个！
 advancement.of:item_display.desc=制作一个物品展示框
+
 advancement.of:stained_item_display=看看这些颜色！
 advancement.of:stained_item_display.desc=制作一个染色的物品展示框
+
 advancement.of:lamp=灯
 advancement.of:lamp.desc=制作一盏灯
+
 advancement.of:coffee_table=矮矮的桌子
 advancement.of:coffee_table.desc=制作一张咖啡桌
+
 advancement.of:bar_stool=色彩缤纷的酒吧
 advancement.of:bar_stool.desc=制作一张酒吧椅
+
 advancement.of:coffee_bean=咖啡豆！
 advancement.of:coffee_bean.desc=获得咖啡豆
+
 advancement.of:coffee_powder=磨碎咖啡
 advancement.of:coffee_powder.desc=磨碎咖啡豆至咖啡粉
+
 advancement.of:coffee=咖啡！
 advancement.of:coffee.desc=制作咖啡
+
 advancement.of:schnitzel=肉片
 advancement.of:schnitzel.desc=烤一片肉片
+
 advancement.of:safe=保持安全
 advancement.of:safe.desc=制作一个保险箱
+
 advancement.of:battery=电力！
 advancement.of:battery.desc=制作一个低等容量电池
+
 advancement.of:battery_med=更多的电力！
 advancement.of:battery_med.desc=制作一个中等容量电池
+
 advancement.of:battery_high=全部的电力！
 advancement.of:battery_high.desc=制作一个高等容量电池
+
 advancement.of:charger=充电
 advancement.of:charger.desc=制作一个电池充电器
+
 advancement.of:chimney=Chim chim cher-ee！
 advancement.of:chimney.desc=制作一个烟囱
+
+advancement.of:vegetable_oil=素食油！
+advancement.of:vegetable_oil.desc=获取植物油
+
+advancement.of:door_garland=圣诞快乐！
+advancement.of:door_garland.desc=制作一个门形花环
+
+advancement.of:door_garland_blinking=炫目的圣诞节！
+advancement.of:door_garland_blinking.desc=制作一个闪烁的门形花环
+
+advancement.of:candle=环保的灯光
+advancement.of:candle.desc=制作一个蜡烛
