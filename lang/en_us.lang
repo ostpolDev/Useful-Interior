@@ -248,6 +248,8 @@ tile.bathroom_window.name=Bathroom Window
 
 item.hand.name=World Interaction
 
+tile.lunchbox.name=Lunchbox
+
 # Containers
 
 container.cabinet.name=Cabinet
